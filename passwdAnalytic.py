@@ -136,6 +136,6 @@ if __name__ == "__main__":
     wordCount(passwd, wordsInPassword)
     # print(wordsInPassword)
 
-    # numberFeatures(wordsInPassword)
-    # letterFeatures(wordsInPassword)
+    numberFeatures(wordsInPassword)
+    letterFeatures(wordsInPassword)
     symbolFeatures(wordsInPassword)
