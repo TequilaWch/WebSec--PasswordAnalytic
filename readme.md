@@ -10,7 +10,7 @@ Program by @[TequilaWCH](https://github.com/TequilaWch) and @宋泽楷, both of 
 
 Run it without thinking twice!
 
-### 4: Data analytic
+### 4: Data analytic(Need to fix up)
 
 The Rate of Numbers 0-9 is shown below:
 
